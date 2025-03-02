@@ -13,7 +13,7 @@
 
 ## Getting started
 
-You can install this awesome theme through the [Visual Studio Code Marketplace]().
+You can install this awesome theme through the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=Moltenship.moxer-icons-fork).
 
 ### Installation
 
@@ -29,6 +29,12 @@ ext install moxer-icons-fork
 ```
 
 #### GitHub Repository Clone
+
+Clone the Moxer Icons repository as `Moltenship.moxer-icons-fork`:
+
+```sh
+git clone https://github.com/Moltenship/moxer-icons-fork.git Moltenship.moxer-icons-fork
+```
 
 Change to your `.vscode/extensions` [VS Code extensions directory](https://code.visualstudio.com/docs/extensions/install-extension#_side-loading).
 Depending on your platform it is located in the following folders:
