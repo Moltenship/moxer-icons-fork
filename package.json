@@ -1,0 +1,45 @@
+{
+  "name": "moxer-icons-fork",
+  "displayName": "Moxer Icons (but I won't hack you or sue you)",
+	"license": "Apache-2.0",
+  "author": { 
+    "name": "Moltenship"
+  },
+  "publisher": "Moltenship",
+  "description": "A fork for moxer icons",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.63.0"
+  },
+  "icon": "logo.png",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Moltenship/moxer-icons-fork"
+  },
+  "bugs": {
+    "url": "https://github.com/Moltenship/moxer-icons-fork/issues/new"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "icons",
+    "theme",
+    "icon-theme",
+    "customization",
+    "moxer"
+  ],
+  "extensionKind": [
+    "ui",
+    "workspace"
+  ],
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "moxer-icons-fork",
+        "label": "Moxer Icons (but I won't hack you or sue you)",
+        "path": "./themes/icons/moxer-icons.json"
+      }
+    ]
+  }
+}
